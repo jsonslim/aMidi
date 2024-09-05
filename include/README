@@ -1,0 +1,13 @@
+# Algorithm
+
+* Analyze wifi networks
+* get list of networks
+* save it to the wifiCurrent.json
+* start AP mode without password 
+* show wifiSettings page
+* take creds from the user input
+* save it to the wifi.json
+* run to wifi client mode
+* read wifi.json and connect to the wifi ap
+* show the settings page with default settings taken from defaultSettings.json
+* 

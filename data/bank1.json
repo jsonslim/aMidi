@@ -1,0 +1,151 @@
+{
+  "id": 1,
+  "name": "Bank 1",
+  "lcdText": "Rock",
+  "buttons": [
+    {
+      "id": 1,
+      "name": "Button 1",
+      "lcdText": "Button 1",
+      "action": "click",
+      "state": "off",
+      "type": "momentary",
+      "colorOn": "#00FF00",
+      "colorOff": "#FF0000",
+      "midiCommand": [
+        {
+          "type": "note",
+          "number": 36,
+          "channel": 1,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Button 2",
+      "lcdText": "Button 2",
+      "action": "click",
+      "state": "off",
+      "type": "momentary",
+      "colorOn": "#0000FF",
+      "colorOff": "#808080",
+      "midiCommand": [
+        {
+          "type": "note",
+          "number": 37,
+          "channel": 1,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Button 3",
+      "lcdText": "Button 3",
+      "action": "click",
+      "state": "off",
+      "type": "momentary",
+      "colorOn": "#FFFF00",
+      "colorOff": "#808000",
+      "midiCommand": [
+        {
+          "type": "note",
+          "number": 38,
+          "channel": 1,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Button 4",
+      "lcdText": "Button 4",
+      "action": "click",
+      "state": "off",
+      "type": "momentary",
+      "colorOn": "#FF00FF",
+      "colorOff": "#800080",
+      "midiCommand": [
+        {
+          "type": "note",
+          "number": 39,
+          "channel": 1,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Button 5",
+      "lcdText": "Button 5",
+      "action": "click",
+      "state": "off",
+      "type": "momentary",
+      "colorOn": "#00FFFF",
+      "colorOff": "#008080",
+      "midiCommand": [
+        {
+          "type": "note",
+          "number": 40,
+          "channel": 1,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Button 6",
+      "lcdText": "Button 6",
+      "action": "click",
+      "state": "off",
+      "type": "momentary",
+      "colorOn": "#FFA500",
+      "colorOff": "#A52A2A",
+      "midiCommand": [
+        {
+          "type": "note",
+          "number": 41,
+          "channel": 1,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Button 7",
+      "lcdText": "Button 7",
+      "action": "click",
+      "state": "off",
+      "type": "momentary",
+      "colorOn": "#800000",
+      "colorOff": "#FFC0CB",
+      "midiCommand": [
+        {
+          "type": "note",
+          "number": 42,
+          "channel": 1,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Button 8",
+      "lcdText": "DL20",
+      "action": "click",
+      "state": "on",
+      "type": "momentary",
+      "colorOn": "#008000",
+      "colorOff": "#90EE90",
+      "midiCommand": [
+        {
+          "type": "note",
+          "number": 43,
+          "channel": 1,
+          "value": 100
+        }
+      ]
+    }
+  ]
+}

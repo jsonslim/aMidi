@@ -1,0 +1,16 @@
+{
+  "default": {
+    "password": "shift123",
+    "ssid": "FRITZ!Box 7590 FH"
+  },
+  "list": [
+    {
+      "password": "12345678",
+      "ssid": "FRITZx7590"
+    },
+    {
+      "password": "12345678",
+      "ssid": "FRITZBox75"
+    }
+  ]
+}
